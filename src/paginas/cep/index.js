@@ -5,6 +5,7 @@ export default function cep(){
         <>
         <h1>PESQUISAR CEP</h1>
         <p>chamada da pagina cep</p>
+        <p>teste</p>
         </>
     )
 }
